@@ -1,0 +1,22 @@
+W			Cube Forward
+S			Cube Back
+A			Cube Rotate Left
+D			Cube Rotate Right
+Q			Cube Rise
+E			Cube Drop
+
+Shift(hold)		Speed up
+
+Left			Wide Frustum
+Right			Narrow Frustum
+Up			Increase Frustum zFar
+Down			Decrease Frustum zFar
+
+Num4			Camera Move Left
+Num6			Camera Move Right
+Num8			Camera Move Forward
+Num5			Camera Move Back
+Num7			Camera Move Up
+Num9			Camera Move Down
+
+MouseWheel		Zooming
